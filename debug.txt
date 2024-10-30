@@ -1,0 +1,145 @@
+
+
+(.venv) ➜  MessageSendTest python main.py
+System status sent
+Heartbeat sent
+Heartbeat sent
+Heartbeat sent
+Heartbeat sent
+Heartbeat sent
+Heartbeat sent
+Received message: {'mavpackettype': 'COMMAND_LONG', 'target_system': 0, 'target_component': 0, 'command': 520, 'confirmation': 0, 'param1': 1.0, 'param2': 0.0, 'param3': 0.0, 'param4': 4.253778927811363e-37, 'param5': 1.401298464324817e-45, 'param6': 0.0, 'param7': 0.0}
+Received message: {'mavpackettype': 'MISSION_REQUEST_LIST', 'target_system': 255, 'target_component': 190}
+Received message: {'mavpackettype': 'PARAM_REQUEST_LIST', 'target_system': 255, 'target_component': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 2, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 6, 'req_message_rate': 3, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 1, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 3, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'MISSION_REQUEST_LIST', 'target_system': 255, 'target_component': 190}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'MISSION_REQUEST_LIST', 'target_system': 255, 'target_component': 190}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 2, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 6, 'req_message_rate': 3, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 1, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 3, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'MISSION_REQUEST_LIST', 'target_system': 255, 'target_component': 190}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'MISSION_REQUEST_LIST', 'target_system': 255, 'target_component': 190}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'MISSION_REQUEST_LIST', 'target_system': 255, 'target_component': 190}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 2, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 6, 'req_message_rate': 3, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 1, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 3, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'PARAM_REQUEST_LIST', 'target_system': 255, 'target_component': 1}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 2, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 6, 'req_message_rate': 3, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 1, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 3, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'PARAM_REQUEST_LIST', 'target_system': 255, 'target_component': 1}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 2, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 6, 'req_message_rate': 3, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 10, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 11, 'req_message_rate': 10, 'start_stop': 1}
+Heartbeat sent
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 12, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 1, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'REQUEST_DATA_STREAM', 'target_system': 255, 'target_component': 0, 'req_stream_id': 3, 'req_message_rate': 2, 'start_stop': 1}
+Received message: {'mavpackettype': 'PARAM_REQUEST_LIST', 'target_system': 255, 'target_component': 1}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
+Received message: {'mavpackettype': 'HEARTBEAT', 'type': 6, 'autopilot': 8, 'base_mode': 192, 'custom_mode': 0, 'system_status': 4, 'mavlink_version': 3}
+Heartbeat sent
